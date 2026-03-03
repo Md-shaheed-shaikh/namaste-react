@@ -1,0 +1,26 @@
+{
+  "name": "ep-04-swiggy",
+  "version": "1.0.0",
+  "description": "bla",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Md-shaheed-shaikh/namaste-react.git"
+  },
+  "author": "shahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Md-shaheed-shaikh/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Md-shaheed-shaikh/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
